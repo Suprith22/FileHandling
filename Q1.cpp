@@ -9,7 +9,7 @@ int main()
 		if(c!='\n')
 		{
 			scanf("%c", &c);
-			fputc(c,fp);
+			fputc(c, fp);
 			
 		}
 		else
